@@ -8,7 +8,9 @@ PRD Copilot takes a free-text request and generates a full PRD including problem
 
 Analytics stakeholders often come to data teams with vague, context-light requests. Before any work starts, someone has to translate "we need to understand churn" into a scoped, unambiguous spec. I built PRD Copilot to automate that translation — turning a raw ask into a structured document that surfaces assumptions, flags risks, and proposes a data model, before a single line of SQL is written.
 
-![PRD Copilot screenshot](src/assets/hero.png)
+| PRD Output | Red Flags | Data Model |
+|---|---|---|
+| ![PRD Output tab](src/assets/PRD-Output.png) | ![Red Flags tab](src/assets/PRD-RedFlag.png) | ![Data Model tab](src/assets/PRD-DataModel.png) |
 
 ## Features
 
